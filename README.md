@@ -1,2 +1,2 @@
 # Scrapy-CIA
-Obtencion de articulos de la CIA
+Obtaining articles from CIA
